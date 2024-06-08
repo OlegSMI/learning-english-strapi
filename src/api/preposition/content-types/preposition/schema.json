@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "prepositions",
+  "info": {
+    "singularName": "preposition",
+    "pluralName": "prepositions",
+    "displayName": "Preposition",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "preposition_ID": {
+      "type": "customField",
+      "regex": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+      "customField": "plugin::field-uuid.uuid"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

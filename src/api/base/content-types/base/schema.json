@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "bases",
+  "info": {
+    "singularName": "base",
+    "pluralName": "bases",
+    "displayName": "Base"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
