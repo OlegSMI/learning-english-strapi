@@ -20,9 +20,9 @@
     "@strapi/plugin-users-permissions": "4.21.1",
     "@strapi/strapi": "4.21.1",
     "better-sqlite3": "8.6.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-router-dom": "5.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^5.3.4",
     "strapi-auto-uuid": "^0.0.8",
     "strapi-plugin-vercel-deploy": "^1.4.0",
     "styled-components": "5.3.3"
